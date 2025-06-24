@@ -119,7 +119,11 @@ function Pricing() {
         <div className="max-w-7xl mx-auto text-center">
           <div className="flex justify-center mb-8">
             <div className="bg-gradient-to-r from-blue-500/10 via-cyan-500/10 to-purple-500/10 p-4 rounded-full border border-blue-500/30 backdrop-blur-sm">
-              <Crown className="h-16 w-16 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-400 to-purple-400" />
+              <img 
+                src="/ChatGPT Image May 23, 2025, 01_42_34 AM copy.png" 
+                alt="Trench Trackers Logo" 
+                className="h-16 w-16 rounded-full border-2 border-blue-400/50"
+              />
             </div>
           </div>
           
